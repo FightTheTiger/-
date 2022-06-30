@@ -7,3 +7,6 @@
 请各位网友客观、公正发表言论和投票
 
 若有不实，责任自负
+
+
+[评价及投票地址](https://github.com/FightTheTiger/CompanyEvaluation/discussions/categories/polls)
